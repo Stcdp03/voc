@@ -69,7 +69,6 @@ class BinaryBoolOperationTests(BinaryOperationTestCase, TranspileTestCase):
         'test_lshift_class',
         'test_lshift_frozenset',
 
-        'test_lt_class',
         'test_lt_frozenset',
 
         'test_modulo_class',
